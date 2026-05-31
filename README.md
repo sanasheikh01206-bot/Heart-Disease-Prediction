@@ -19,6 +19,7 @@ This project focuses on building a robust machine learning classification pipeli
 4. **Model Training:** Built and trained a Logistic Regression classification model.
 5. **Statistical Evaluation:** Evaluated the model's predictive power using rigorous classification metrics. Analyzed the Confusion Matrix, Recall, Precision, F1-Score, and ROC-AUC score to validate feature significance and overall model accuracy.
 
-# Project link : https://colab.research.google.com/github/sanasheikh01206-bot/Heart-Disease-Prediction/blob/main/Heart_Disease_Prediction.ipynb
+# Project link : 
+https://colab.research.google.com/github/sanasheikh01206-bot/Heart-Disease-Prediction/blob/main/Heart_Disease_Prediction.ipynb
 
 # Explaination Video : 
