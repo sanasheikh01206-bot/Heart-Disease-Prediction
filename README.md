@@ -23,3 +23,4 @@ This project focuses on building a robust machine learning classification pipeli
 https://colab.research.google.com/github/sanasheikh01206-bot/Heart-Disease-Prediction/blob/main/Heart_Disease_Prediction.ipynb
 
 # Explaination Video : 
+https://drive.google.com/file/d/14SJ69-R_PLP1PxgJvDDcUL1Y04vBDKO9/view?usp=sharing
