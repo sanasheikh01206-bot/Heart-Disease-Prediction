@@ -3,9 +3,6 @@
 ## 📌 Project Overview
 This project focuses on building a robust machine learning classification pipeline to predict the risk of coronary heart disease. Using the Framingham Heart Study dataset, the objective is to apply statistical techniques and predictive modeling to classify patient risk accurately, showcasing a complete end-to-end data analytics workflow.
 
-## 📹 Video Walkthrough
-**[Click here to watch the full video explanation of the code, methodology, and results]** *(Replace this text with your actual video link)*
-
 ## 🛠️ Tools & Technologies
 * **Language:** Python
 * **Data Manipulation & Analysis:** Pandas, NumPy
